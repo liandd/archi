@@ -1,0 +1,21 @@
+#! /bin/sh
+timedatectl set-timezone America/Bogota
+pgrep -x sxhkd > /dev/null || sxhkd &
+setxkbmap latam
+bspc monitor -d I II III IV V
+
+bspc config border_width         2
+bspc config window_gap          12
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc config focus_follows_pointer true
+bspc config border_width 0
+
+feh --bg-fill /home/qw4qe/Descargas/d1.webp
+picom &
+~/.config/polybar/launch.sh --blocks &
+xsetroot -cursor_name left_ptr &
+wmname LG3D &
