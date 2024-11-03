@@ -1,8 +1,8 @@
 #! /bin/sh
 timedatectl set-timezone America/Bogota
 pgrep -x sxhkd > /dev/null || sxhkd &
-setxkbmap latam
-bspc monitor -d I II III IV V
+setxkbmap es
+bspc monitor -d I II III IV V VI
 
 bspc config border_width         2
 bspc config window_gap          12
@@ -12,10 +12,11 @@ bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
 bspc config focus_follows_pointer true
-bspc config border_width 0
+#bspc config border_width 0.7
 
-feh --bg-fill /home/qw4qe/Descargas/d1.webp
-picom &
-~/.config/polybar/launch.sh --blocks &
+vmname LG3D &
+vmware-user-suid-wrapper &
 xsetroot -cursor_name left_ptr &
-wmname LG3D &
+picom &
+/home/blyaat/.config/polybar/launch.sh --blocks &
+feh --bg-fill /home/blyaat/Descargas/4.png
