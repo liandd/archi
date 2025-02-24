@@ -1,0 +1,23 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {part}{I\hspace {1em}Semana 1}{2}{}%
+\contentsline {chapter}{\numberline {1}Introducción a la asignatura}{3}{}%
+\contentsline {section}{\numberline {1.1}Clase 30 Julio}{3}{}%
+\contentsline {paragraph}{Power BI}{3}{}%
+\contentsline {chapter}{\numberline {2}Fuentes de datos Power BI}{4}{}%
+\contentsline {section}{\numberline {2.1}Clase 6 Agosto}{4}{}%
+\contentsline {paragraph}{Origenes de Datos}{4}{}%
+\contentsline {section}{\numberline {2.2}Datos Locales vs Compartidos}{4}{}%
+\contentsline {paragraph}{Datos Locales}{4}{}%
+\contentsline {paragraph}{Datos Compartidos}{5}{}%
+\contentsline {paragraph}{Transformación de Datos en POWER BI}{5}{}%
+\contentsline {section}{\numberline {2.3}Modos de almacenamientos Power BI}{6}{}%
+\contentsline {section}{\numberline {2.4}Conectores}{6}{}%
+\contentsline {section}{\numberline {2.5}Activadores y Acciones}{6}{}%
+\contentsline {part}{II\hspace {1em}}{7}{}%
+\contentsline {part}{III\hspace {1em}}{8}{}%
+\contentsline {part}{IV\hspace {1em}}{9}{}%
+\contentsline {part}{V\hspace {1em}}{10}{}%
+\contentsline {part}{VI\hspace {1em}Metodología de Calificación}{11}{}%
+\contentsline {chapter}{\numberline {3}Cortes}{12}{}%
+\contentsline {section}{\numberline {3.1}Porcentajes evaluativos}{12}{}%
+\contentsline {paragraph}{La temática para el trabajo final de la asignatura contará como \textit {Examen final}.}{12}{}%

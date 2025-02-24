@@ -1,0 +1,33 @@
+#To validate if a ipv6 address is currently set in wlp3s0
+ip -6 addr show dev ´NAME_OF_CONTROLER´
+
+1. Using iface
+- sudo ip -6 addr add 2001:FA:FA:4000::2/64 dev enp0s25 #"IPv6 Address"
+- ip -6 addr show dev wlp3s0
+
+2. Test the connection
+- ping/ping6 2001:FA:FA:4000::2
+
+3. Test to set the IpGw using 'route' command
+- route -6 inet add 2001:FA:FA:4000::1/64 dev enp0s25
+
+- route add default gw 2001:FA:FA:4000::1/64 enp0s25
+- netstat -r
+
+  138  cat AttempsToSetIpv6
+  139  route add default gw 2001:fa:fa:4000::1/64 enp0s25
+  140  route add default 2001:fa:fa:4000::1/64 enp0s25
+  141  route add default gw 2001:00fa:00fa:4000:0000:0000:0000:0001/64 enp0s25
+  143  cat AttempsToSetIpv6 -l ruby
+  145  ip -6 add default via 2001:00fa:00fa:4000:0000:0000:0000:0001 dev enp0s25 | cat -l ruby
+  146  ip -6 add default via 2001:00fa:00fa:4000:0000:0000:0000:0001 dev enp0s25
+  148  route add default gw 2001:00fa:00fa:4000:0000:0000:0000:0001 enp0s25
+  149  sudo ip -6 add default via 2001:00fa:00fa:4000:0000:0000:0000:0001 dev enp0s25
+  151  ip -6 route add default via 2001:00fa:00fa:4000:0000:0000:0000:0001 dev enp0s25
+  152  sudo ip -6 route add default via 2001:00fa:00fa:4000:0000:0000:0000:0001 dev enp0s25
+  153  netstat -r
+  154  ifconfig | cat -l ruby
+  155  ip -6 route show
+  156  cat ~/.zsh_history
+  157  history
+

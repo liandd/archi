@@ -1,0 +1,36 @@
+# uso de try y except
+
+try:
+
+  num = 7/0
+
+except:
+  print("No se puede dividir un numero entre zero")
+
+# Si no se usa try except, se obtiene un error llamado ZeroDivisionError, se maneja la extencion
+
+try:
+  
+  num = 7/0
+
+except ZeroDivisionError:
+  
+  print("No se puede dividir un numero entre zero")
+
+# De esta manera se maneja mucho mejor las excepciones
+# Tenemos las TypeError, ZeroDivisionError y entre muchas, etc
+
+# Tambien hay 2 sentencias importantes al usar try (else y finally)
+try:
+  
+  num = 8/2
+
+except ZeroDivisionError:
+  
+  print("No se puede dividir entre zero")
+
+else:
+  print("El resultado de la division es {}".format(num))
+
+finally:
+  print("Esta linea de 'finally' siempre se va a ejecutar")

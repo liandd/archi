@@ -1,0 +1,22 @@
+# Fdb version 4
+["pdflatex"] 1722558701.29001 "Documento.tex" "Documento.pdf" "Documento" 1722558702.19669 0
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1716849630 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf" 1716849630 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
+  "/usr/share/texmf-dist/tex/generic/babel/babel.sty" 1716849630 146276 10a40dabec03ce18494af0c3a51bcbdc ""
+  "/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-es.ini" 1716849630 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
+  "/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex" 1716849630 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
+  "/usr/share/texmf-dist/tex/generic/babel/txtbabel.def" 1716849630 6948 df63e25be1d2bc35bbad5a0141f41348 ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1716849630 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texmf-dist/tex/latex/base/inputenc.sty" 1716849630 5048 425739d70251273bf93e3d51f3c40048 ""
+  "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1716849630 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1716849630 30006 3d512c0edd558928ddea1690180ef77e ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1722534308.02824 29871 18e04762487e39c9af1b8df78fcf191a ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1722534933 7135090 f5d62a5fbd1101fda0980eaee5fcc62c ""
+  "Documento.aux" 1722558702.06909 194 72658fb03bfd53fc103956ba2036b889 "pdflatex"
+  "Documento.tex" 1722558699.93909 281 eb3e15b88c2c88ed024fb852d122e408 ""
+  (generated)
+  "Documento.aux"
+  "Documento.log"
+  "Documento.pdf"
+  (rewritten before read)

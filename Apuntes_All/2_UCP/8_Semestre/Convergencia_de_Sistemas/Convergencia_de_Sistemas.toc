@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {part}{I\hspace {1em}Procesamiento Paralelo}{2}{}%
+\contentsline {chapter}{\numberline {1}Teoría}{3}{}%
+\contentsline {section}{\numberline {1.1}¿Qué es el Procesamiento Paralelo?}{3}{}%
+\contentsline {subsection}{\numberline {1.1.1}Definición}{3}{}%
+\contentsline {paragraph}{Procesamiento Paralelo}{3}{}%
+\contentsline {section}{\numberline {1.2}¿Qué es el Procesamiento Concurrente?}{4}{}%
+\contentsline {subsection}{\numberline {1.2.1}Definición}{4}{}%
+\contentsline {paragraph}{Programación Concurrente}{4}{}%
+\contentsline {section}{\numberline {1.3}¿Qué es un Proceso?}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {part}{II\hspace {1em}Computación en la nube}{8}{}%
+\contentsline {part}{III\hspace {1em}Inteligencia Artificial}{9}{}%
+\contentsline {part}{IV\hspace {1em}IoT Intenet de las Cosas}{10}{}%
+\contentsline {part}{V\hspace {1em}Big Data y Data Analytics}{11}{}%
+\contentsline {part}{VI\hspace {1em}Metodología de Calificación}{12}{}%
+\contentsline {chapter}{\numberline {2}Cortes}{13}{}%
+\contentsline {section}{\numberline {2.1}Porcentajes evaluativos}{13}{}%
+\contentsline {paragraph}{Cortes 1, 2, 3}{13}{}%
