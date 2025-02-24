@@ -1,0 +1,23 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {part}{I\hspace {1em}Introducción a la Inteligencia Artificial}{3}{}%
+\contentsline {chapter}{\numberline {1}Introducción a la asignatura}{4}{}%
+\contentsline {section}{\numberline {1.1}Clase 1 Agosto}{4}{}%
+\contentsline {paragraph}{Procesamiento del lenguaje natural}{4}{}%
+\contentsline {section}{\numberline {1.2}Introducción a la IA}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {part}{II\hspace {1em}PLN en Java}{7}{}%
+\contentsline {part}{III\hspace {1em}Introducción a Python}{8}{}%
+\contentsline {part}{IV\hspace {1em}Bases PLN}{9}{}%
+\contentsline {part}{V\hspace {1em}NLP - Pipeline}{10}{}%
+\contentsline {part}{VI\hspace {1em}Text Representation}{11}{}%
+\contentsline {part}{VII\hspace {1em}Text Clasification}{12}{}%
+\contentsline {part}{VIII\hspace {1em}Information Extraction}{13}{}%
+\contentsline {part}{IX\hspace {1em}Spech Recognition and Synthesis}{14}{}%
+\contentsline {part}{X\hspace {1em}Chatbots}{15}{}%
+\contentsline {part}{XI\hspace {1em}Search and Information Retrieval}{16}{}%
+\contentsline {part}{XII\hspace {1em}Topic Modelling}{17}{}%
+\contentsline {part}{XIII\hspace {1em}Recommender Systems for Textual Data}{18}{}%
+\contentsline {part}{XIV\hspace {1em}Metodología de Calificación}{19}{}%
+\contentsline {chapter}{\numberline {2}Cortes}{20}{}%
+\contentsline {section}{\numberline {2.1}Porcentajes evaluativos}{20}{}%
+\contentsline {paragraph}{Cortes 1, 2, 3}{20}{}%

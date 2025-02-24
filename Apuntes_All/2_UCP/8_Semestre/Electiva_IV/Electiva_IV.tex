@@ -1,0 +1,110 @@
+\documentclass[a4paper]{report} % Formato plantilla
+
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc} % Para poder usar caracteres especiales
+\usepackage[spanish]{babel} % Para poder usar caracteres especiales
+
+\begin{document} % Inicio del documento Template
+  \begin{titlepage}
+    \centering
+    {\scshape\LARGE Universidad Católica de Pereira\par}
+    \vfill
+    {\scshape\LARGE Electiva IV Power BI\par}
+    \vfill
+    {\huge\bfseries Apuntes de clase\par}
+    \vfill
+    {\Large\itshape Juan David Garcia Acevedo\par}
+    \vfill
+    Docente de la materia\par
+	   Carlos Andres \textsc{Cortes}
+    \vfill
+    {\Large\today\par}
+  \end{titlepage}
+%======================================================================
+  \tableofcontents % Para crear los índices
+    \part{Semana 1}
+      \chapter{Introducción a la asignatura}
+        \section{Clase 30 Julio} 
+            \paragraph{Power BI}\mbox{} \\
+              La asignatura se centra en la analítica de datos. Mediante la aplicación \textit{PowerBi}, seguidamente se trabajaran con distintas fuentes de datos las cuales no se reducen a las Bases de Datos, por tanto, la idea es entender los diferentes tipos de datos, todo miente la conexión a diferentes tipos de datos. Cuando tenemos acceso a una fuente de datos se presenta una diferencias entre datos locales y compartidos. La idea es equivocarse lo menos posible con el tratamiento de datos.
+              \\Popularmente la información se pueden encontrar en distintos formatos.
+              \\\\Power BI es una colección de servicios de software, aplicaciones y conectores que funcionan conjuntamente para convertir orígenes de datos sin relación entre sí en información coherente, interactiva y atractiva visualmente.
+      \chapter{Fuentes de datos Power BI}
+        \section{Clase 6 Agosto}
+          \paragraph{Origenes de Datos}\mbox{} \\
+            Introducción a los origenes como fuentes de datos. Para trabajar con origines de datos, siendo estos datos digitales salidos de \textit{Bases de Datos, Archivos, APIS, Sitios Web}.
+            \\Estos origines de datos muestran tendencias, inclusive en pdfs, archivos de word, archivos de texto como fuentes de datos podemos trabajarlas como fuentes de datos. Siendo los origenes/fuentes de tipo \textbf{Locales o en la Nube}, donde se debe consultar a los administradores de la organización para poder extraerla y crear nuestros informes en \textit{Power BI}.
+            \\Importante recordar que el origen de datos es de donde proviene la informacion.
+            \\Tenemos que las fuentes de datos origen clasicos son los siguientes: excel, archivos csv, xml, json, pdfs.
+            \begin{itemize}
+              \item Fuentes de datos:
+                \begin{enumerate}
+                  \item Excel
+                  \item Archivos \textbf{CSV}
+                  \item XML
+                  \item JSON
+                  \item PDF
+                  \item Documentos de Texto
+                  \item Documentos de Word(.doc y entre otros)
+                \end{enumerate}
+            \end{itemize}
+            Es importante que la fuente de datos de origen este correctamente configurado, o se presentarán problemas al hacer las consultas en los datos. Se pueden hacer consultas \textbf{DAX} para trabajar con los datos.
+        \section{Datos Locales vs Compartidos}
+          \paragraph{Datos Locales}\mbox{} \\
+            Se trabajan con datos locales cargados de la propia máquina, en caso de no contar con una buena cantidad de memoria RAM el trabajo no tendrá el mejor rendimiento. Se puede presentar la situación que la misma data tenga un peso muy grande. Ejemplo con la data del Covid, se presenta una lentitud al momento de cargar los datos y revisarlos.
+              \begin{itemize}
+                 \item Para los datos locales tenemos lo siguiente:
+                    \begin{enumerate}
+                      \item Se almacenan localmente en máquina
+                      \item Solo nosotros podemos acceder a los datos
+                      \item Se actualizan manualmente cuando se importan nuevos datos
+                    \end{enumerate}
+              \end{itemize}
+            \paragraph{Datos Compartidos}\mbox{} \\
+              \begin{itemize}
+                \item Para los datos compartidos tenemos lo siguiente:
+                  \begin{enumerate}
+                    \item Se almacenan en la nube
+                    \item Pueden se compartidos con otros usuarios, grupos.
+                    \item Se actualizan automáticamente según una programación definida
+                  \end{enumerate}
+              \end{itemize}
+              Hay unos modos de almacenamiento \textbf{(Importar, DirectQuery, Dual)}, donde se presenta la situación que la \textit{Data} es muy pesada en almacenamiento, puede presentarse un proceso muy lento al cargar los datos en el equipo.
+              \\Normalmente se usa Importar para archivos de Excel, Word, y documentos de textos. Ya que estos pueden ser archivos compartidos y permiten realizar la importación de datos.
+              \\Es importante que Power BI permite trabajar con datos estructurados, es decir, datos con un formato estructurado y organizada donde es fácil notar la organización de la fuente de los datos. Tambien hay archivos de audio, imagenes pero estos no se encuentran en el alcanze de la asignatura.
+              \\Se utilizará SQL Server Management para la carga de datos. El nombre que se utiliza para identificar la base de datos es \textit{SQLEXPRESS}. Se debe utilizar el modo mixto para la conexión a SQL SERVER, la base de datos que se utilizará se llama \textbf{Adventure Works}. 
+              \\\\\paragraph{Transformación de Datos en POWER BI}\mbox{}\\
+              Se trabajará la carga de datos durante la clase 13 Agosoto. Dentro de todas las tecnologías Microsoft se puede trabajar sus formatos en PowerBI como archivos para la carga de datos
+              \\Se utiliza SQL Server Manager para la carga de datos y se obtiene la información, posteriormente se selecciona la base de datos SQL Server y se conecta siendo el servidor de EXPRESS y se elige la base de datos.
+              \\En este caso la base de datos es \textbf{Adventure Works} y es importante tener en cuenta las columnas de relación para la realización de informes e incluir las columnas de relaciones.
+              \\Es importante estos pasos ya que ayuda a saber que tablas tienen o no tienen relación en PowerBI. Y se encontraraá una cantidad de tablas al momento de cargar nuestra muestra de \textbf{Adventure Works}. Se tiene por fácilidad la \textit{Conexión Directa} ya que no utilizamos nada localmente (Debido a que la carga de datos locales usando \textit{Importar} puede ser un proceso más lento). Para el \textit{Modo Dual} requerimos de una red montada para utilizarla. En propiedades avanzadas encontramos la opción para activar el \textit{Modo Dual} para hacer filtros y traer los datos al equipo.
+              \\Hay que conocer que PowerBI, Excel y demás herramientas de análisis de Microsft tienen el PowerQuery que permite hacer consultas en bases de datos de tipo Microsoft, donde a través de PowerQuery podemos hacer tareas con similitud a Excel para realizar tareas y con una interfaz más intuitiva.
+              \\El uso de Transformación de Datos requiere ingresas por la opción Transformar Datos al hacer click derecho sobre una columna. Podemos usar la transformación cuando hay diferentes tipos de errores debido a datos no cargados, algunos casos no tienen datos relacionados...
+              \\La mayoria de los errores es porque los datos no están diligenciados y usando la opción Transformar se remplazan los valores(errores) y se cambia por un número. Para migrar a texto.
+              \\Los pasos aplicados son los cambios a el trabajo que hemos realizado y se pueden deshacer las acciones y cambiar de orden. Muestra las operaciones o transformaciones a los datos aplicados a power query.
+        \section{Modos de almacenamientos Power BI}
+        \section{Conectores}
+        \section{Activadores y Acciones}
+%----------------------------------------------------------------------
+    \part{}
+    \part{}
+    \part{}
+    \part{}
+%======================================================================
+    \part{Metodología de Calificación}
+      \chapter{Cortes}
+        \section{Porcentajes evaluativos}
+          \paragraph{La temática para el trabajo final de la asignatura contará como \textit{Examen final}.}\mbox{}\\
+            \begin{itemize}
+              \item Las politicas evaluativas son las siguientes:
+              \begin{enumerate}
+                \item Primer Parcial 20\% - (\%15 trabajo - \%5 Parcial)
+                \item Segundo Parcial 20\% - (\%15 trabajo - \%5 Parcial)
+                \item Tercer Parcial 20\%
+                \item Examen Final 20\% - (\%15 trabajo - \%5 Parcial)
+                \item Trabajos en Clase 20\% - (\%5 Asistencia - \%15 Quizes y Trabajos)
+              \end{enumerate}
+            \end{itemize}
+%======================================================================
+\end{document}
+

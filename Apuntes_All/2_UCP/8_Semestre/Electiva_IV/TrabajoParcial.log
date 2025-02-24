@@ -1,0 +1,311 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.8.1)  22 SEP 2024 23:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**TrabajoParcial.tex
+(./TrabajoParcial.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen143
+\l@unhyphenated=\language8
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+
+(/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks20
+\es@quotdepth=\count199
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box51
+)
+(./TrabajoParcial.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `TrabajoParcial.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen145
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./TrabajoParcial.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `TrabajoParcial.toc'.
+
+ [1
+
+] [2
+
+]
+Cap\'{\i }tulo 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+<Images/pesoporgenero.png, id=18, 750.55406pt x 423.83344pt>
+File: Images/pesoporgenero.png Graphic file (type png)
+<use Images/pesoporgenero.png>
+Package pdftex.def Info: Images/pesoporgenero.png  used on input line 33.
+(pdftex.def)             Requested size: 345.0pt x 194.82346pt.
+[3
+
+ <./Images/pesoporgenero.png>]
+<Images/pesoporaltura.png, id=22, 780.66656pt x 478.78876pt>
+File: Images/pesoporaltura.png Graphic file (type png)
+<use Images/pesoporaltura.png>
+Package pdftex.def Info: Images/pesoporaltura.png  used on input line 42.
+(pdftex.def)             Requested size: 345.0pt x 211.58821pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+<Images/pesoporalimentoscalorias.png, id=23, 780.66656pt x 478.78876pt>
+File: Images/pesoporalimentoscalorias.png Graphic file (type png)
+<use Images/pesoporalimentoscalorias.png>
+Package pdftex.def Info: Images/pesoporalimentoscalorias.png  used on input lin
+e 52.
+(pdftex.def)             Requested size: 345.0pt x 211.58821pt.
+<Images/pesoporalimentosvegetales.png, id=24, 780.66656pt x 478.78876pt>
+File: Images/pesoporalimentosvegetales.png Graphic file (type png)
+<use Images/pesoporalimentosvegetales.png>
+Package pdftex.def Info: Images/pesoporalimentosvegetales.png  used on input li
+ne 61.
+(pdftex.def)             Requested size: 345.0pt x 211.58821pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--64
+
+ []
+
+[4 <./Images/pesoporaltura.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+<Images/pesoporcomidasdiarias.png, id=28, 780.66656pt x 478.78876pt>
+File: Images/pesoporcomidasdiarias.png Graphic file (type png)
+<use Images/pesoporcomidasdiarias.png>
+Package pdftex.def Info: Images/pesoporcomidasdiarias.png  used on input line 7
+9.
+(pdftex.def)             Requested size: 345.0pt x 211.58821pt.
+<Images/pesopormonitoreocalorias.png, id=29, 780.66656pt x 478.78876pt>
+File: Images/pesopormonitoreocalorias.png Graphic file (type png)
+<use Images/pesopormonitoreocalorias.png>
+Package pdftex.def Info: Images/pesopormonitoreocalorias.png  used on input lin
+e 89.
+(pdftex.def)             Requested size: 345.0pt x 211.58821pt.
+[5 <./Images/pesoporalimentoscalorias.png>]
+<Images/pesoporfumar.png, id=33, 776.14969pt x 439.6425pt>
+File: Images/pesoporfumar.png Graphic file (type png)
+<use Images/pesoporfumar.png>
+Package pdftex.def Info: Images/pesoporfumar.png  used on input line 97.
+(pdftex.def)             Requested size: 345.0pt x 195.42227pt.
+<Images/pesoporagua.png, id=34, 779.16093pt x 432.86719pt>
+File: Images/pesoporagua.png Graphic file (type png)
+<use Images/pesoporagua.png>
+Package pdftex.def Info: Images/pesoporagua.png  used on input line 105.
+(pdftex.def)             Requested size: 345.0pt x 191.66426pt.
+<Images/pesoporhistoriafamiliar.png, id=35, 776.9025pt x 435.12563pt>
+File: Images/pesoporhistoriafamiliar.png Graphic file (type png)
+<use Images/pesoporhistoriafamiliar.png>
+Package pdftex.def Info: Images/pesoporhistoriafamiliar.png  used on input line
+ 113.
+(pdftex.def)             Requested size: 345.0pt x 193.22859pt.
+ [6 <./Images/pesoporalimentosvegetales.png>]
+<Images/pesoporejercicio.png, id=40, 782.17218pt x 453.19313pt>
+File: Images/pesoporejercicio.png Graphic file (type png)
+<use Images/pesoporejercicio.png>
+Package pdftex.def Info: Images/pesoporejercicio.png  used on input line 121.
+(pdftex.def)             Requested size: 345.0pt x 199.89656pt.
+<Images/pesoportecnologias.png, id=41, 782.925pt x 456.20438pt>
+File: Images/pesoportecnologias.png Graphic file (type png)
+<use Images/pesoportecnologias.png>
+Package pdftex.def Info: Images/pesoportecnologias.png  used on input line 129.
+
+(pdftex.def)             Requested size: 345.0pt x 201.02986pt.
+<Images/pesoportransporte.png, id=42, 783.67781pt x 456.20438pt>
+File: Images/pesoportransporte.png Graphic file (type png)
+<use Images/pesoportransporte.png>
+Package pdftex.def Info: Images/pesoportransporte.png  used on input line 137.
+(pdftex.def)             Requested size: 345.0pt x 200.83495pt.
+ [7 <./Images/pesoporcomidasdiarias.png>]
+<Images/pesotipoobesidad.png, id=46, 776.14969pt x 438.8897pt>
+File: Images/pesotipoobesidad.png Graphic file (type png)
+<use Images/pesotipoobesidad.png>
+Package pdftex.def Info: Images/pesotipoobesidad.png  used on input line 145.
+(pdftex.def)             Requested size: 345.0pt x 195.08765pt.
+ [8 <./Images/pesopormonitoreocalorias.png>] [9 <./Images/pesoporfumar.png> <./
+Images/pesoporagua.png>]
+[10 <./Images/pesoporhistoriafamiliar.png> <./Images/pesoporejercicio.png>]
+[11 <./Images/pesoportecnologias.png> <./Images/pesoportransporte.png>]
+[12 <./Images/pesotipoobesidad.png>] (./TrabajoParcial.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3440 strings out of 476014
+ 59851 string characters out of 5792006
+ 1932187 words of memory out of 5000000
+ 25543 multiletter control sequences out of 15000+600000
+ 561748 words of font info for 48 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 61i,7n,69p,641b,368s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on TrabajoParcial.pdf (13 pages, 493406 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

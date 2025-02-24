@@ -1,0 +1,31 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {part}{I\hspace {1em}Parcial de Power Bi}{2}{}%
+\contentsline {chapter}{\numberline {1}Obesity Data Set - Punto 1}{3}{}%
+\contentsline {section}{\numberline {1.1}Distribución del peso total por rango de edad y género}{3}{}%
+\contentsline {paragraph}{}{3}{}%
+\contentsline {section}{\numberline {1.2}Peso por altura según rangos de edad}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {section}{\numberline {1.3}Peso según consumo de alimentos con alto valor calórico}{4}{}%
+\contentsline {paragraph}{}{4}{}%
+\contentsline {section}{\numberline {1.4}Peso según consumo de vegetales}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {section}{\numberline {1.5}Peso según número de comidas diarias}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {section}{\numberline {1.6}Peso según consumo de alimentos con alto valor calórico}{5}{}%
+\contentsline {paragraph}{}{5}{}%
+\contentsline {section}{\numberline {1.7}Peso según monitoreo de ingesta calórica}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {section}{\numberline {1.8}Peso según hábito de fumar}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {section}{\numberline {1.9}Peso según frecuencia de consumo de agua}{6}{}%
+\contentsline {paragraph}{}{6}{}%
+\contentsline {section}{\numberline {1.10}Peso según antecedentes familiares de sobrepeso}{7}{}%
+\contentsline {paragraph}{}{7}{}%
+\contentsline {section}{\numberline {1.11}Peso según frecuencia de ejercicio}{7}{}%
+\contentsline {paragraph}{}{7}{}%
+\contentsline {section}{\numberline {1.12}Peso según uso de tecnologías}{7}{}%
+\contentsline {paragraph}{}{7}{}%
+\contentsline {section}{\numberline {1.13}Peso según el uso de transporte}{8}{}%
+\contentsline {paragraph}{}{8}{}%
+\contentsline {section}{\numberline {1.14}Tipo de obesidad según rangos de edad}{8}{}%
+\contentsline {paragraph}{}{8}{}%
